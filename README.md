@@ -7,7 +7,7 @@ El objetivo principal de nuestro trabajo es analizar el dataset "hotel_bookings"
 
 #### - Diego Fabrizio Mucha Alvarez
 #### - Cesar Joaquin Alvarado Osorio
-#### - Johan Quispe Quintana
+#### - Johan Sebastián Quispe Quintana
 #### - Leonardo Mathias Juscamayta Trujillo
 #### - Joaquin Alonso Basas Requena
 
